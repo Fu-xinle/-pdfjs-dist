@@ -1,0 +1,19 @@
+{
+  "name": "pdfjs-dist",
+  "version": "1.0.0",
+  "description": "最新版本的pdfjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fu-xinle/-pdfjs-dist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fu-xinle/-pdfjs-dist/issues"
+  },
+  "homepage": "https://github.com/Fu-xinle/-pdfjs-dist#readme"
+}
